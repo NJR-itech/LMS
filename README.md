@@ -1,0 +1,1 @@
+Management software for monitoring and controlling the transactions in a library . The project “Library Management System” is developed using basic HTML, PHP 5+, MySQL 5.5+
